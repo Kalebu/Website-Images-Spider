@@ -41,6 +41,16 @@ Note
 --------
 This script doesn't work very well with website with a bunch of JS
 
+Issues 
+-----------
+
+Incase you have any difficulties or issues while trying to run the script
+you can raise it on the issues. 
+
+Pull Requests
+----------------
+
+If you have something to add I welcome pull requests on improvement , you're helpful contribution will be merged as soon as possible 
 
 Give it a Star ✴️
 --------------------
